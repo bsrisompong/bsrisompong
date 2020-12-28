@@ -2,6 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=bsrisompong&color=green)
 
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Node.js
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm drink a lot of tea
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrisompong&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bsrisompong/bsrisompong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
