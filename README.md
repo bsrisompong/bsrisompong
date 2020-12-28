@@ -1,6 +1,8 @@
 ### Hi, I'm Bunyawat Srisompong 👋
 
-![](https://komarev.com/ghpvc/?username=bsrisompong&color=green)
+<!-- ![](https://komarev.com/ghpvc/?username=bsrisompong&color=green) -->
+
+![](https://hit.yhype.me/github/profile?user_id=33023239)
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Node.js
