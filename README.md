@@ -1,6 +1,5 @@
 ### Hi, I'm Bunyawat Srisompong 👋
 
-<!-- ![](https://komarev.com/ghpvc/?username=bsrisompong&color=green) -->
 
 ![](https://hit.yhype.me/github/profile?user_id=33023239)
 
@@ -24,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=bsrisompong&color=green) -->
