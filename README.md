@@ -4,7 +4,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=33023239)
 
 
-My name is Bunyawat and today is Thursday, December 31, 4:59 AM GMT+1.
+My name is Bunyawat and today is Thursday, December 31, 11:02 AM GMT+7.
 
 
 - 🔭 I’m currently working on Web Development
