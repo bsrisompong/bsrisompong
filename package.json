@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bsrisompong/bsrisompong#readme",
   "dependencies": {
-    "mustache": "^4.1.0"
+    "mustache": "^4.1.0",
+    "puppeteer": "^5.5.0"
   }
 }
