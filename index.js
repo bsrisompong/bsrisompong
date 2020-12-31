@@ -9,7 +9,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache'
  * Notice the "name" and "date" property.
  */
 let DATA = {
-  name: 'Bunyawat',
+  name: 'Bunyawat S.',
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
@@ -34,6 +34,7 @@ async function setInstagramPosts() {
   DATA.img1 = instagramImages[0]
   DATA.img2 = instagramImages[1]
   DATA.img3 = instagramImages[2]
+  console.log(DATA)
 }
 
 async function generateReadMe() {
@@ -42,6 +43,7 @@ async function generateReadMe() {
     const output = Mustache.render(data.toString(), DATA)
     fs.writeFileSync('README.md', output)
   })
+  console.log('generate README.md')
 }
 
 async function actions() {
