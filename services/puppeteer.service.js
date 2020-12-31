@@ -1,8 +1,8 @@
 const puppeteer = require('puppeteer')
 
 class PuppeteerService {
-  browser
-  page
+  //   browser
+  //   page
 
   async init() {
     this.browser = await puppeteer.launch({
