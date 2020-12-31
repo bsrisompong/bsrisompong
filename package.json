@@ -1,0 +1,22 @@
+{
+  "name": "bsrisompong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsrisompong/bsrisompong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsrisompong/bsrisompong/issues"
+  },
+  "homepage": "https://github.com/bsrisompong/bsrisompong#readme",
+  "dependencies": {
+    "mustache": "^4.1.0"
+  }
+}
