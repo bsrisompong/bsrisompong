@@ -49,6 +49,7 @@ async function generateReadMe() {
 async function actions() {
   await setInstagramPosts()
   await generateReadMe()
+  await puppeteerService.close()
 }
 
 actions()
