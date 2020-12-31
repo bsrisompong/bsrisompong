@@ -4,7 +4,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=33023239)
 
 
-I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Thursday, December 31, 12:53 PM GMT+7.
+I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Thursday, December 31, GMT+7.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrisompong&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -27,14 +27,14 @@ I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Thursday, D
 
 
 <h3>Where to find me</h3>
-<h3><a href="https://www.instagram.com/_bookr/" target="_blank"><img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png"
-    width="20" /> @_bookr</a></h3>
-<p><img  height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;132141022_234798904684087_5412802792327005932_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;sJw9JTa3cFMAX_f9xsX&amp;tp&#x3D;1&amp;oh&#x3D;bdcb62f5e0023fa5c49c30cf47302aae&amp;oe&#x3D;601643F2" /> <img height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;131980194_2518341148471182_2252206124813111735_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;aJIlyPedOEgAX-J--7M&amp;tp&#x3D;1&amp;oh&#x3D;2616a489f206e4a1fb9236683528029d&amp;oe&#x3D;60167005" /> <img height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;130809529_111653854118262_7617493068951205856_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;iST_eWaanacAX-i1Q8g&amp;tp&#x3D;1&amp;oh&#x3D;914403aeaf4906000abf660eedf669b8&amp;oe&#x3D;60171104" /></p>
-
 <a href="https://www.linkedin.com/in/bsrisompong/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<p><a href="https://www.instagram.com/_bookr/" target="_blank"><img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png"
+    width="20" /> @_bookr</a></p>
+<p><img  height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;p640x640&#x2F;132141022_234798904684087_5412802792327005932_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;107&amp;_nc_ohc&#x3D;sJw9JTa3cFMAX_f9xsX&amp;tp&#x3D;1&amp;oh&#x3D;bdcb62f5e0023fa5c49c30cf47302aae&amp;oe&#x3D;601643F2" /> <img height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;131980194_2518341148471182_2252206124813111735_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;aJIlyPedOEgAX-J--7M&amp;tp&#x3D;1&amp;oh&#x3D;2616a489f206e4a1fb9236683528029d&amp;oe&#x3D;60167005" /> <img height="200" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;130809529_111653854118262_7617493068951205856_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;106&amp;_nc_ohc&#x3D;iST_eWaanacAX-i1Q8g&amp;tp&#x3D;1&amp;oh&#x3D;914403aeaf4906000abf660eedf669b8&amp;oe&#x3D;60171104" /></p>
+
 
 <!--
 **bsrisompong/bsrisompong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
