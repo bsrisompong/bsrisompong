@@ -28,7 +28,7 @@ function generateReadMe() {
   fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err
     const output = Mustache.render(data.toString(), DATA)
-    fs.appendFileSync('README.md', output)
+    fs.writeFileSync('README.md', output)
   })
 }
 generateReadMe()
