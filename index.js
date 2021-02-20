@@ -28,7 +28,7 @@ let DATA = {
 
 async function setInstagramPosts() {
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount(
-    'boekbekbek',
+    '_bookr',
     3
   )
   DATA.img1 = instagramImages[0]
