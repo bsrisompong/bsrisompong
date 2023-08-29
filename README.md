@@ -4,7 +4,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=33023239)
 
 
-I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Tuesday, August 29, GMT+7.
+I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Wednesday, August 30, GMT+7.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsrisompong&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
