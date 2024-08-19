@@ -23,18 +23,12 @@ I'm Bunyawat, Fullstack developer from Thailand🇹🇭 and today is Tuesday, Au
 
 <h3>Things I'm currently learning </h3>
 <p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 
 <h3>Where to find me</h3>
 <a href="https://www.linkedin.com/in/bsrisompong" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br></br>
-<p><a href="https://www.instagram.com/_bookr/" target="_blank"><img
-    src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"
-    width="22" /> @_bookr</a></p>
-<p><img  height="200" src="" /> <img height="200" src="" /> <img height="200" src="" /></p>
+
 
 
 <!--
